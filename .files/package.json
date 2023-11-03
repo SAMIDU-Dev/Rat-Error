@@ -1,12 +1,12 @@
 {
-  "name": "L3MON",
+  "name": "Rat-Error",
   "version": "1.0.0",
-  "description": "L3MON - Remote Android Managment Suite",
+  "description": "Rat-Error - Remote Android Managment Suite",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
   },
-  "author": "D3VL",
+  "author": "SAMIDU",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
